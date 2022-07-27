@@ -1,2 +1,0 @@
-# thanh123
-hocgit
